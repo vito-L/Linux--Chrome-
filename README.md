@@ -1,2 +1,3 @@
 # LinuxCn-Widget
-Chrome插件
+#### Linux中国     
+> 新标签页将替换为Linux中国首页
