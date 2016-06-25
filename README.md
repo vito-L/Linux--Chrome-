@@ -1,2 +1,2 @@
-# Linux--Chrome-
+# LinuxCn-Widget
 Chrome插件
